@@ -1,0 +1,161 @@
+.pic1{
+	position: relative;
+	float: left;
+	opacity: 0.6;
+}
+.header li{
+	font-size: 40px;
+	margin-top: 74px;
+	/*text-shadow:2px 2px 2px 2px;*/
+	background:#020310;
+	margin-left: 15px;
+/*	opacity: 0.9;*/
+}
+.header a{
+	color: #F7F5FF;
+	text-decoration: none;
+
+}
+.header a:hover{
+	background: #2858C0;
+	/*podsvetka ssulok*/
+}
+.header{
+	height: 250px;
+}
+.background{
+	background: url(images.jpg);
+	/*fon kartinka*/
+}
+.content{
+	margin-left: 100px;
+}
+.block1{
+	background: #050332;
+	margin: 60px;
+	/*opacity: 0.8;*/
+}
+.block2{
+	background: #102B82;
+	margin: 60px;
+	opacity: 0.9;
+}
+.block3{
+	background: #050332;
+	margin: 60px;
+	/*opacity: 0.8;*/
+}
+.block4{
+	background: #102B82;
+	margin: 60px;
+	opacity: 0.9;
+}
+.block5{
+	background: #050332;
+	margin: 60px;
+	/*opacity: 0.8;*/
+}
+.block6{
+	background: #102B82;
+	margin: 60px;
+	opacity: 0.9;
+}
+.h1{
+	color:#F7F5FF; 
+}
+.pic2{
+	position: relative;
+	float: left;
+	width: 300px;
+	height: 200px;
+
+}
+.content a{
+	color: #D6E0E9;
+	text-decoration: none;
+}
+.p1{
+	color: #999999;
+	font-size: 15px;
+}
+.p1:hover{
+	font-size: 19px;
+}
+/*.pic3{
+	display: none;
+	visibility: hidden;
+} cpryatana kartinka*/
+.pic3{
+	position: relative;
+	float: left;
+	opacity: 0.7;
+}
+.p2{
+	color: #F7F5FF;
+	font-size: 15px;
+}
+.p2:hover{
+	font-size: 19px;
+}
+.content a:hover{
+	background: #2858C0;
+}
+.pic4{
+	position: relative;
+	float: left;
+}
+.pic5{
+	position: relative;
+	float: left;
+	width:330px ;
+	height: 230px;
+}
+.pic6{
+	position: relative;
+	float: left;
+	width:300px ;
+	height: 200px;
+	opacity: 0.9;
+}
+.pic7{
+	position: relative;
+	float: left;
+}
+.pic8{
+	width: 800px;
+	height: 450px;
+	margin: 550px;
+	margin-top: 0px;
+	/*karusel*/
+}
+.footer{
+	background: #020310;
+
+}
+.p3{
+	color: #999999;
+	font-size: 15px;
+	margin-left: 100px;
+	margin-top: 15px;
+}
+.name{
+	width: 180px;
+	box-shadow: inset 1px 0px 3px 4px #064DD1;
+	margin-left: 950px;
+	background: #337AB7;
+	/*margin-top: -10px;*/
+	
+
+}
+.send{
+	margin-left: 950px;
+	/*margin-top: -50px;*/
+}
+.p4{
+	color: #F7F5FF;
+	font-size: 15px;
+	margin-left: 750px;
+	margin-top: 10px;
+	position: relative;
+	float: left;
+}
